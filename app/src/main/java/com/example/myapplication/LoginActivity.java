@@ -39,7 +39,7 @@ public class LoginActivity extends AppCompatActivity {
                     tv.setText("");
                 }
             }
-
+//
             @Override
             public void afterTextChanged(Editable editable) {
 
